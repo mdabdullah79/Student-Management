@@ -1,1 +1,1 @@
-<h1><Stuent Management</h1>
+<h1>Stuent Management </h1>
